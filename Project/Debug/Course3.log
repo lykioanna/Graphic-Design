@@ -1,0 +1,8 @@
+﻿  visuals.cpp
+c:\users\konstantina\desktop\εργασία_γραφικων\visuals.cpp(181): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\konstantina\desktop\εργασία_γραφικων\visuals.cpp(182): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  main.cpp
+  Generating Code...
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Course3.vcxproj -> C:\Users\Konstantina\Desktop\Εργασία_Γραφικων\Debug\Course3.exe
+  Course3.vcxproj -> Debug\Course3.pdb (Full PDB)
